@@ -1,5 +1,3 @@
-![github](https://user-images.githubusercontent.com/52736275/140582694-3b8b1004-de2c-408d-83b3-ec69299ee795.jpg)
-
 <h1 align="center">Hi 👋, I'm Md Sanowar Hossain</h1>
 <h3 align="center">Data Science and Machine Learning are two of my favorite subjects. A dedicated student who seeks out high-quality education. Expert in Python, R, and Tableau</h3>
 
