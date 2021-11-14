@@ -1,5 +1,6 @@
 
-<img height="250" width="2500" src="https://user-images.githubusercontent.com/52736275/141699448-08213757-65c8-442a-b707-cf24dad75995.png" />
+<img height="250" width="2500" src="https://github.com/HossainSanowar-Github/HossainSanowar-Github/blob/main/github.png" />
+
 
 <h1 align="center">Hi 👋, I'm Md Sanowar Hossain</h1>
 <h3 align="center">Data Science and Machine Learning are two of my favorite subjects. A dedicated student who seeks out high-quality education. Expert in Python, R, and Tableau</h3>
