@@ -1,7 +1,6 @@
-![images-6,width="100"](https://user-images.githubusercontent.com/52736275/141698974-c3e4082c-c97d-4917-8db3-d67bc0a1382b.jpg)
 
-
-
+![blog-convolutional-neural-network-2](https://user-images.githubusercontent.com/52736275/141699448-08213757-65c8-442a-b707-cf24dad75995.png)
+<img src = https://user-images.githubusercontent.com/52736275/141699448-08213757-65c8-442a-b707-cf24dad75995.png, width="100">
 <h1 align="center">Hi 👋, I'm Md Sanowar Hossain</h1>
 <h3 align="center">Data Science and Machine Learning are two of my favorite subjects. A dedicated student who seeks out high-quality education. Expert in Python, R, and Tableau</h3>
 
