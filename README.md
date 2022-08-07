@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Sanowar Hossain</h1>
-<h3 align="center">Data Science and Machine Learning are two of my favorite subjects. A dedicated student who seeks out high-quality education. Expert in Python, R, and Tableau</h3>
+<h3 align="center">I am a data scientist with a strong interest in gaining insights. I enjoy understanding how the world operates. I believe that a great data scientist must have the language skills of a diplomat, the curiosity of a scientist, and the business skills of an entrepreneur. I want to continue to pursue my intense curiosity and strong desire to create an influence beyond myself, which will allow me to leave my comfort zone.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossainsanowar-github&label=Profile%20views&color=0e75b6&style=flat" alt="hossainsanowar-github" /> </p>
 
